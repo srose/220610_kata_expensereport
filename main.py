@@ -1,5 +1,6 @@
 from expense_report import ExpenseReport, Expense, ExpenseType
 
+# Sebastian Rose
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
