@@ -1,6 +1,10 @@
 from expense_report import ExpenseReport, Expense, ExpenseType
 
+# Coders of the day:
 # Sebastian Rose
+# Anna Maier
+# Richard von Faber
+# Chris Coltsman
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
